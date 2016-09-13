@@ -117,7 +117,7 @@ jQuery(window).load(function() {
 			jQuery(divpopup).attr('id', 'myModal');
 			jQuery(divpopup).attr('class', 'linhnguyen-modal');
 			jQuery( "body" ).append(divpopup);
-			jQuery("#myModal").html("<a href=' http://bit.ly/2crYWTt' target='_blank'><img src='http://topcom.com.vn/data/upload/999x537_1-1444633188-746135289.jpg' width='500px'/><br/>13 Thế giới pin sạc dự phòng </a>. Nhà cung cấp Lê Thái. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			jQuery("#myModal").html("<a href=' http://bit.ly/2crYWTt' target='_blank'><img src='http://topcom.com.vn/data/upload/999x537_1-1444633188-746135289.jpg' width='500px'/><br/>Thế giới pin sạc dự phòng </a>. Nhà cung cấp Lê Thái 0903643030. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			jQuery('#myModal').linhnguyen(jQuery('#myModal').data());
 		}
 });
